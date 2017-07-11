@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Mar 07 09:20:03 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=BigFish_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.mainframe.FirstFrame
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
